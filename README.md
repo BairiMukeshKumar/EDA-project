@@ -1,1 +1,1 @@
-# EDA-project
+In this project we have done a EDA on richest people in world dataset by using numpy,pandas,matplotlib and python.Data preprocessing is done in numpy and pandas.Data visualization is done by using matplotlib and  placed in jupyter notebook.
